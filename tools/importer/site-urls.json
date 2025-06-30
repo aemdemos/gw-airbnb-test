@@ -1,0 +1,21 @@
+{
+  "originUrl": "https://www.airbnb.co.in",
+  "lastCrawled": "https://www.airbnb.co.in",
+  "urls": [
+    {
+      "url": "https://www.airbnb.co.in",
+      "source": "MANUAL"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {}
+  },
+  "extractionErrors": []
+}
