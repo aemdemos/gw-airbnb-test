@@ -4,7 +4,9 @@
   "urls": [
     {
       "url": "https://www.airbnb.co.in",
-      "source": "MANUAL"
+      "source": "MANUAL",
+      "id": "db9af101723ebbdc8930a9152cfd4b73e366e86a",
+      "targetPath": "/"
     }
   ],
   "crawlOptions": {
