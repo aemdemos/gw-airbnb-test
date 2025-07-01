@@ -1,66 +1,12 @@
 {
-  "originUrl": "https://fortstreet-p.schools.nsw.gov.au",
-  "lastCrawled": "https://fortstreet-p.schools.nsw.gov.au/",
+  "originUrl": "https://chair-untie-84208742.figma.site",
+  "lastCrawled": "https://chair-untie-84208742.figma.site/",
   "urls": [
     {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/",
+      "url": "https://chair-untie-84208742.figma.site/",
       "source": "SITEMAPS",
       "targetPath": "/",
-      "id": "ca5e72d9d44849e31bae1f56e1bda79706e969a5"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school.html",
-      "source": "SITEMAPS",
-      "targetPath": "/about-our-school",
-      "id": "66e090804caa8be488555aad22a8406e5a0731fd"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/classes.html",
-      "source": "SITEMAPS",
-      "targetPath": "/about-our-school/classes",
-      "id": "d9037fa3c2a26622c0af5524c3a34da66becc2b3"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/enrolment.html",
-      "source": "SITEMAPS",
-      "targetPath": "/about-our-school/enrolment",
-      "id": "aa6921b83ccbecef5cc09cadbf01fc406754717a"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/financial-contributions-and-assistance.html",
-      "source": "SITEMAPS",
-      "targetPath": "/about-our-school/financial-contributions-and-assistance",
-      "id": "7aa976abdafd46f498b567f8a27068b54ad622f8"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/location-and-transport.html",
-      "source": "SITEMAPS",
-      "targetPath": "/about-our-school/location-and-transport",
-      "id": "8cfbdf001fc744043bc3d81761ad67f9030bf793"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/our-proud-history.html",
-      "source": "SITEMAPS",
-      "targetPath": "/about-our-school/our-proud-history",
-      "id": "72fc229d2b845c5653f2c095f9339721a373e658"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/about-our-school/our-staff.html",
-      "source": "SITEMAPS",
-      "targetPath": "/about-our-school/our-staff",
-      "id": "4f15120ff3ecfbe8cba35bdcb7b4f19dc70dc98c"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-leadership.html",
-      "source": "SITEMAPS",
-      "targetPath": "/supporting-our-students/student-leadership",
-      "id": "2bced2fba745127c87ee7517c1bb48d3a419560a"
-    },
-    {
-      "url": "https://fortstreet-p.schools.nsw.gov.au/supporting-our-students/student-wellbeing.html",
-      "source": "SITEMAPS",
-      "targetPath": "/supporting-our-students/student-wellbeing",
-      "id": "1f15564b555134553b0c3e7fff63039ae02a1639"
+      "id": "d57d14a5af075a9db60d706a9cfd7654296b6b72"
     }
   ],
   "crawlOptions": {
